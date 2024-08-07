@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,cnspeedtest.com
 DOMAIN-SUFFIX,zhujiceping.com
 DOMAIN-SUFFIX,hassbian.com
 DOMAIN-SUFFIX,yxvm.com
+DOMAIN-SUFFIX,d2core.com
 SRC-IP-CIDR,212.50.255.224/32,no-resolve
 SRC-IP-CIDR,130.162.146.216/32,no-resolve
 SRC-IP-CIDR,193.32.149.225/32,no-resolve

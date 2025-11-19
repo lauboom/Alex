@@ -1,0 +1,4 @@
+#Apple Intelligence（SIRI-AI）分流规则
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,humb.apple.com

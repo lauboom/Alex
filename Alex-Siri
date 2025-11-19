@@ -2,3 +2,4 @@
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,humb.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com

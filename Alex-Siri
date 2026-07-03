@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,*.smoot.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 
-IP-CIDR,17.248.152.145/24,PROXY,no-resolve
-IP-CIDR,17.248.152.113/24,PROXY,no-resolve
+IP-CIDR,17.248.152.145/24,no-resolve
+IP-CIDR,17.248.152.113/24,no-resolve
